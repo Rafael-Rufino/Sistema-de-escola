@@ -17,7 +17,7 @@ import fotoRoutes from './routes/fotoRoutes';
 const whiteList = [
   'https://react2.rafaelrufino.com.br',
   'http://localhost:3000',
-  'http://pt.wikipedia.org',
+
 ];
 
 const corsOptions = {
